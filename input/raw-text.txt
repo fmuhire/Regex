@@ -1,0 +1,41 @@
+ALU Customer Support Logs - May 2026
+
+New user registrations:
+kamali.tre@alueducation.com
+sarahjoy@si.alueducation.com
+willy2026@alumni.alueducation.com
+
+Incorrect emails submitted:
+lisa@@gmail..com
+angelo.gmail.com
+muhire@com
+
+Websites visited:
+https://www.alueducation.com
+http://google.com
+https://github.com
+
+Broken or suspicious links:
+htp:/wrong-site
+http://unsafe<script>.com
+
+Phone numbers from support forms:
++250788223656
++1 202 545 0180
+(202) 545-0180
+
+Invalid phone entries:
+73653
+phone-number-here
+
+Payment attempts:
+4539 1488 0343 6467
+5500-0000-0000-0004
+1111-2222
+
+Suspicious activity detected:
+<script>alert('hack')</script>
+
+Extra notes:
+Customer requested password reset.
+API timeout occurred at 14:32.

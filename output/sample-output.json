@@ -1,0 +1,45 @@
+{
+    "emails": {
+        "alu_official": [
+            "kamali.tre@alueducation.com"
+        ],
+        "alu_alumni": [
+            "willy2026@alumni.alueducation.com"
+        ],
+        "alu_si": [
+            "sarahjoy@si.alueducation.com"
+        ],
+        "invalid_emails": [
+            "lisa@@gmail..com",
+            "muhire@com"
+        ]
+    },
+    "urls": {
+        "valid_urls": [
+            "https://www.alueducation.com",
+            "http://google.com",
+            "https://github.com"
+        ],
+        "invalid_urls": [
+            "http://unsafe<script>.com"
+        ]
+    },
+    "phones": {
+        "valid_phones": [
+            "+250788223656",
+            "+1 202 545 0180",
+            "(202) 545-0180"
+        ],
+        "invalid_phones": []
+    },
+    "credit_cards": {
+        "valid_cards": [
+            "4539148803436467",
+            "5500000000000004"
+        ],
+        "masked_cards": [
+            "4539 ******** 6467",
+            "5500 ******** 0004"
+        ]
+    }
+}
